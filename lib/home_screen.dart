@@ -1,8 +1,4 @@
-// ignore_for_file: prefer_const_constructors
-
-import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
+// ignore_for_file: prefer_const_constructors, non_constant_identifier_names
 
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
